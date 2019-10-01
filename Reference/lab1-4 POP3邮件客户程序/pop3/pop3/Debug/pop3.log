@@ -1,0 +1,92 @@
+﻿  stdafx.cpp
+  ViewTree.cpp
+  PropertiesWnd.cpp
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\propertieswnd.cpp(99): error C2039: “m_bHiColorIcons”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+  pop3View.cpp
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3view.cpp(101): error C2039: “GetContextMenuManager”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3view.cpp(101): error C2227: “->ShowPopupMenu”的左边必须指向类/结构/联合/泛型类型
+  pop3Doc.cpp
+  pop3Dlg.cpp
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.h(18): error C2065: “IDD_POP3_DIALOG”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(31): error C2065: “IDC_EDIT1”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(32): error C2065: “IDC_EDIT3”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(33): error C2065: “IDC_EDIT2”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(34): error C2065: “IDC_LIST1”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(35): error C2065: “IDC_EDIT4”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(36): error C2065: “IDC_BUTTON2”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(37): error C2065: “IDC_BUTTON3”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(38): error C2065: “IDC_BUTTON4”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(44): error C2065: “IDC_BUTTON1”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(45): error C2065: “IDC_BUTTON2”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(46): error C2065: “IDC_BUTTON3”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(47): error C2065: “IDC_LIST1”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(49): error C2065: “IDC_BUTTON4”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(50): error C2065: “IDC_BUTTON5”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(67): error C2039: “SetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(68): error C2039: “SetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(69): error C2039: “SetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(120): error C2039: “GetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(122): error C2039: “GetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(124): error C2039: “GetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(134): error C2660: “MessageBoxA”: 函数不接受 3 个参数
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(142): error C2664: “int CListBox::AddString(LPCTSTR)”: 无法将参数 1 从“const char *”转换为“LPCTSTR”
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(142): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(155): error C2664: “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”: 无法将参数 1 从“wchar_t *”转换为“std::initializer_list<_Elem>”
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(155): note: 无构造函数可以接受源类型，或构造函数重载决策不明确
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(177): error C2039: “SetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(187): error C2664: “std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)”: 无法将参数 1 从“wchar_t *”转换为“std::initializer_list<_Elem>”
+          with
+          [
+              _Elem=char
+          ]
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(187): note: 无构造函数可以接受源类型，或构造函数重载决策不明确
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(191): error C2039: “SetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(218): error C2039: “SetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(227): error C2664: “int CListBox::AddString(LPCTSTR)”: 无法将参数 1 从“const char *”转换为“LPCTSTR”
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(227): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(241): error C2039: “SetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.cpp(243): error C2039: “SetWindowTextA”: 不是“CEdit”的成员
+  d:\microsoft visual studio\2017\professional\vc\tools\msvc\14.11.25503\atlmfc\include\afxwin.h(3821): note: 参见“CEdit”的声明
+  pop3.cpp
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3dlg.h(18): error C2065: “IDD_POP3_DIALOG”: 未声明的标识符
+  OutputWnd.cpp
+  MainFrm.cpp
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(45): error C2039: “m_nAppLook”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(45): error C2039: “GetInt”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(79): error C2039: “m_bHiColorIcons”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(119): error C2039: “m_bHiColorIcons”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(139): error C2039: “m_nAppLook”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(251): error C2039: “m_bHiColorIcons”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(325): error C2039: “m_nAppLook”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(327): error C2039: “m_nAppLook”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(363): error C2039: “m_nAppLook”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(389): error C2039: “WriteInt”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(389): error C2039: “m_nAppLook”: 不是“Cpop3App”的成员
+  c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\pop3.h(18): note: 参见“Cpop3App”的声明
+c:\users\win10\documents\visual studio 2017\projects\pop3\pop3\mainfrm.cpp(327): fatal error C1903: 无法从以前的错误中恢复；正在停止编译

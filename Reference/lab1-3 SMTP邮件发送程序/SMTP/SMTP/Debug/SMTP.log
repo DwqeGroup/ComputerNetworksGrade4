@@ -1,0 +1,7 @@
+﻿  SMTP.cpp
+c:\users\win10\documents\visual studio 2017\projects\smtp\smtp\smtp.cpp(19): warning C4005: “_T”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\tchar.h(2427): note: 参见“_T”的前一个定义
+c:\users\win10\documents\visual studio 2017\projects\smtp\smtp\smtp.cpp(200): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  c:\users\win10\documents\visual studio 2017\projects\smtp\smtp\smtp.cpp(200): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  c:\users\win10\documents\visual studio 2017\projects\smtp\smtp\smtp.cpp(200): note: 缺失的可变参数 1 为格式字符串“%d”所需
+  SMTP.vcxproj -> C:\Users\win10\Documents\Visual Studio 2017\Projects\SMTP\Debug\SMTP.exe

@@ -1,0 +1,139 @@
+﻿  stdafx.cpp
+  ViewTree.cpp
+  PropertiesWnd.cpp
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(30): error C2065: “ID_EXPAND_ALL”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(31): error C2065: “ID_EXPAND_ALL”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(32): error C2065: “ID_SORTPROPERTIES”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(33): error C2065: “ID_SORTPROPERTIES”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(34): error C2065: “ID_PROPERTIES1”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(35): error C2065: “ID_PROPERTIES1”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(36): error C2065: “ID_PROPERTIES2”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(37): error C2065: “ID_PROPERTIES2”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(96): error C2065: “IDR_PROPERTIES”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(97): error C2065: “IDR_PROPERTIES”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(99): error C2039: “m_bHiColorIcons”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(99): error C2065: “IDB_PROPERTIES_HC”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\propertieswnd.cpp(99): error C2065: “IDR_PROPERTIES”: 未声明的标识符
+  OutputWnd.cpp
+c:\users\win10\documents\visual studio 2017\projects\download\download\outputwnd.cpp(62): error C2065: “IDS_BUILD_TAB”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\outputwnd.cpp(65): error C2065: “IDS_DEBUG_TAB”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\outputwnd.cpp(68): error C2065: “IDS_FIND_TAB”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\outputwnd.cpp(150): error C2065: “ID_VIEW_OUTPUTWND”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\outputwnd.cpp(159): error C2065: “IDR_OUTPUT_POPUP”: 未声明的标识符
+  MainFrm.cpp
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(24): error C2065: “ID_WINDOW_MANAGER”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(25): error C2065: “ID_VIEW_CUSTOMIZE”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(27): error C2065: “ID_VIEW_APPLOOK_WIN_2000”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(27): error C2065: “ID_VIEW_APPLOOK_WINDOWS_7”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(28): error C2065: “ID_VIEW_APPLOOK_WIN_2000”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(28): error C2065: “ID_VIEW_APPLOOK_WINDOWS_7”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(45): error C2039: “m_nAppLook”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(45): error C2039: “GetInt”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(45): error C2065: “ID_VIEW_APPLOOK_VS_2008”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(79): error C2039: “m_bHiColorIcons”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(79): error C2065: “IDR_MAINFRAME_256”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(86): error C2065: “IDS_TOOLBAR_STANDARD”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(91): error C2065: “IDS_TOOLBAR_CUSTOMIZE”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(93): error C2065: “ID_VIEW_CUSTOMIZE”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(119): error C2065: “IDR_MENU_IMAGES”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(119): error C2039: “m_bHiColorIcons”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(119): error C2065: “IDB_MENU_IMAGES_24”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(139): error C2039: “m_nAppLook”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(142): error C2065: “ID_WINDOW_MANAGER”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(145): error C2065: “ID_VIEW_CUSTOMIZE”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(173): error C2065: “ID_VIEW_APPLOOK_OFF_2003”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(174): error C2065: “ID_VIEW_APPLOOK_VS_2005”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(175): error C2065: “ID_VIEW_APPLOOK_OFF_2007_BLUE”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(176): error C2065: “ID_VIEW_APPLOOK_OFF_2007_SILVER”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(177): error C2065: “ID_VIEW_APPLOOK_OFF_2007_BLACK”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(178): error C2065: “ID_VIEW_APPLOOK_OFF_2007_AQUA”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(179): error C2065: “ID_VIEW_APPLOOK_WINDOWS_7”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(180): error C2065: “ID_SORTING_SORTALPHABETIC”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(181): error C2065: “ID_SORTING_SORTBYTYPE”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(182): error C2065: “ID_SORTING_SORTBYACCESS”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(183): error C2065: “ID_SORTING_GROUPBYTYPE”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(213): error C2065: “IDS_CLASS_VIEW”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(215): error C2065: “ID_VIEW_CLASSVIEW”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(223): error C2065: “IDS_FILE_VIEW”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(225): error C2065: “ID_VIEW_FILEVIEW”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(233): error C2065: “IDS_OUTPUT_WND”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(235): error C2065: “ID_VIEW_OUTPUTWND”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(243): error C2065: “IDS_PROPERTIES_WND”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(245): error C2065: “ID_VIEW_PROPERTIESWND”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(251): error C2039: “m_bHiColorIcons”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(257): error C2065: “IDI_FILE_VIEW_HC”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(257): error C2065: “IDI_FILE_VIEW”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(257): error C2660: “LoadImageW”: 函数不接受 5 个参数
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(260): error C2065: “IDI_CLASS_VIEW_HC”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(260): error C2065: “IDI_CLASS_VIEW”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(260): error C2660: “LoadImageW”: 函数不接受 5 个参数
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(263): error C2065: “IDI_OUTPUT_WND_HC”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(263): error C2065: “IDI_OUTPUT_WND”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(263): error C2660: “LoadImageW”: 函数不接受 5 个参数
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(266): error C2065: “IDI_PROPERTIES_WND_HC”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(266): error C2065: “IDI_PROPERTIES_WND”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(266): error C2660: “LoadImageW”: 函数不接受 5 个参数
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(314): error C2065: “IDS_TOOLBAR_CUSTOMIZE”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(317): error C2065: “ID_VIEW_CUSTOMIZE”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(325): error C2039: “m_nAppLook”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(327): error C2039: “m_nAppLook”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(329): error C2065: “ID_VIEW_APPLOOK_WIN_2000”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(329): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(329): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(329): note: 请参见“ID_VIEW_APPLOOK_WIN_2000”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(333): error C2065: “ID_VIEW_APPLOOK_OFF_XP”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(333): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(333): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(333): note: 请参见“ID_VIEW_APPLOOK_OFF_XP”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(337): error C2065: “ID_VIEW_APPLOOK_WIN_XP”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(337): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(337): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(337): note: 请参见“ID_VIEW_APPLOOK_WIN_XP”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(342): error C2065: “ID_VIEW_APPLOOK_OFF_2003”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(342): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(342): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(342): note: 请参见“ID_VIEW_APPLOOK_OFF_2003”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(347): error C2065: “ID_VIEW_APPLOOK_VS_2005”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(347): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(347): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(347): note: 请参见“ID_VIEW_APPLOOK_VS_2005”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(352): error C2065: “ID_VIEW_APPLOOK_VS_2008”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(352): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(352): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(352): note: 请参见“ID_VIEW_APPLOOK_VS_2008”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(357): error C2065: “ID_VIEW_APPLOOK_WINDOWS_7”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(357): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(357): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(357): note: 请参见“ID_VIEW_APPLOOK_WINDOWS_7”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(363): error C2039: “m_nAppLook”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(365): error C2065: “ID_VIEW_APPLOOK_OFF_2007_BLUE”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(365): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(365): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(365): note: 请参见“ID_VIEW_APPLOOK_OFF_2007_BLUE”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(369): error C2065: “ID_VIEW_APPLOOK_OFF_2007_BLACK”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(369): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(369): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(369): note: 请参见“ID_VIEW_APPLOOK_OFF_2007_BLACK”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(373): error C2065: “ID_VIEW_APPLOOK_OFF_2007_SILVER”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(373): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(373): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(373): note: 请参见“ID_VIEW_APPLOOK_OFF_2007_SILVER”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(377): error C2065: “ID_VIEW_APPLOOK_OFF_2007_AQUA”: 未声明的标识符
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(377): error C2131: 表达式的计算结果不是常数
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(377): note: 非常量参数或对非常量符号的引用导致了故障
+  c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(377): note: 请参见“ID_VIEW_APPLOOK_OFF_2007_AQUA”的用法
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(389): error C2039: “WriteInt”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(389): error C2039: “m_nAppLook”: 不是“CdownloadApp”的成员
+  c:\users\win10\documents\visual studio 2017\projects\download\download\download.h(18): note: 参见“CdownloadApp”的声明
+c:\users\win10\documents\visual studio 2017\projects\download\download\mainfrm.cpp(327): fatal error C1903: 无法从以前的错误中恢复；正在停止编译

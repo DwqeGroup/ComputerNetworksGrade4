@@ -31,12 +31,12 @@
 
 ### Java
 
-- [ ] Project 1 - Socket Programming
-- [ ] Project 2 - Multi-thread Web Server
-- [ ] Project 3 - SMTP Send Mail Client
+- [x] Project 1 - Socket Programming
+- [x] Project 2 - Multi-thread Web Server
+- [x] Project 3 - SMTP Send Mail Client
 - [ ] Project 4 - POP3 Mail Client
 - [ ] Project 5 - FTP Client
-- [ ] Project 6 - Network Download
+- [x] Project 6 - Network Download
 - [ ] Project 7 - Web Proxy
 
 ### Python

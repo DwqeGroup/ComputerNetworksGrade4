@@ -4,16 +4,15 @@
 
 ## 实验分工
 
-|           | C/C++        | Java                 | Python               |
-| --------- | ------------ | -------------------- | -------------------- |
-| 基本分工  | 贺隽文、谭超 | 张启洋、钱泽、贺隽文 | 谭超、邹博文、孙颢源 |
-| Project 1 |              | 钱泽                 |                      |
-| Project 2 |              | 钱泽                 |                      |
-| Project 3 |              | 钱泽                 |                      |
-| Project 4 |              | 张启洋               |                      |
-| Project 5 |              |                      |                      |
-| Project 6 |              | 张启洋               |                      |
-| Project 7 |              |                      |                      |
+|           | C/C++ | Java   | Python |
+| --------- | ----- | ------ | ------ |
+| Project 1 |       | 钱泽   |        |
+| Project 2 |       | 钱泽   |        |
+| Project 3 |       | 钱泽   |        |
+| Project 4 |       | 张启洋 |        |
+| Project 5 |       |        |        |
+| Project 6 |       | 张启洋 | 张启洋 |
+| Project 7 |       |        |        |
 
 
 
@@ -34,7 +33,7 @@
 - [x] Project 1 - Socket Programming
 - [x] Project 2 - Multi-thread Web Server
 - [x] Project 3 - SMTP Send Mail Client
-- [ ] Project 4 - POP3 Mail Client
+- [x] Project 4 - POP3 Mail Client
 - [ ] Project 5 - FTP Client
 - [x] Project 6 - Network Download
 - [ ] Project 7 - Web Proxy
@@ -44,8 +43,8 @@
 - [ ] Project 1 - Socket Programming
 - [ ] Project 2 - Multi-thread Web Server
 - [ ] Project 3 - SMTP Send Mail Client
-- [ ] Project 4 - POP3 Mail Client
+- [x] Project 4 - POP3 Mail Client
 - [ ] Project 5 - FTP Client
-- [ ] Project 6 - Network Download
+- [x] Project 6 - Network Download
 - [ ] Project 7 - Web Proxy
 

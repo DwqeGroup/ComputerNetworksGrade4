@@ -7,12 +7,12 @@
 |           | C/C++        | Java                 | Python               |
 | --------- | ------------ | -------------------- | -------------------- |
 | 基本分工  | 贺隽文、谭超 | 张启洋、钱泽、贺隽文 | 谭超、邹博文、孙颢源 |
-| Project 1 |              |                      |                      |
-| Project 2 |              |                      |                      |
-| Project 3 |              |                      |                      |
-| Project 4 |              |                      |                      |
+| Project 1 |              | 钱泽                 |                      |
+| Project 2 |              | 钱泽                 |                      |
+| Project 3 |              | 钱泽                 |                      |
+| Project 4 |              | 张启洋               |                      |
 | Project 5 |              |                      |                      |
-| Project 6 |              |                      |                      |
+| Project 6 |              | 张启洋               |                      |
 | Project 7 |              |                      |                      |
 
 

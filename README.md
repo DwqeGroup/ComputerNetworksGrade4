@@ -8,7 +8,7 @@
 | --------- | ----- | ------ | ------ |
 | Project 1 |       | 钱泽   |        |
 | Project 2 |       | 钱泽   |        |
-| Project 3 |       | 钱泽   |        |
+| Project 3 |       | 钱泽   | 张启洋 |
 | Project 4 |       | 张启洋 | 张启洋 |
 | Project 5 |       |        |        |
 | Project 6 |       | 张启洋 | 张启洋 |
@@ -42,7 +42,7 @@
 
 - [ ] Project 1 - Socket Programming
 - [ ] Project 2 - Multi-thread Web Server
-- [ ] Project 3 - SMTP Send Mail Client
+- [x] Project 3 - SMTP Send Mail Client
 - [x] Project 4 - POP3 Mail Client
 - [ ] Project 5 - FTP Client
 - [x] Project 6 - Network Download

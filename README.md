@@ -9,7 +9,7 @@
 | Project 1 |       | 钱泽   |        |
 | Project 2 |       | 钱泽   |        |
 | Project 3 |       | 钱泽   |        |
-| Project 4 |       | 张启洋 |        |
+| Project 4 |       | 张启洋 | 张启洋 |
 | Project 5 |       |        |        |
 | Project 6 |       | 张启洋 | 张启洋 |
 | Project 7 |       |        |        |

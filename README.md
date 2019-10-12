@@ -6,12 +6,12 @@
 
 |           | C/C++ | Java   | Python |
 | --------- | ----- | ------ | ------ |
-| Project 1 |       | 钱泽   |        |
-| Project 2 |       | 钱泽   |        |
-| Project 3 |       | 钱泽   | 张启洋 |
+| Project 1 | 贺隽文 | 钱泽   |        |
+| Project 2 | 贺隽文 | 钱泽   |        |
+| Project 3 | 贺隽文 | 钱泽   | 张启洋 |
 | Project 4 |       | 张启洋 | 张启洋 |
-| Project 5 |       |        |        |
-| Project 6 |       | 张启洋 | 张启洋 |
+| Project 5 | 贺隽文 |        |        |
+| Project 6 | 贺隽文 | 张启洋 | 张启洋 |
 | Project 7 |       |        |        |
 
 
@@ -20,12 +20,12 @@
 
 ### C/C++
 
-- [ ] Project 1 - Socket Programming
-- [ ] Project 2 - Multi-thread Web Server
-- [ ] Project 3 - SMTP Send Mail Client
+- [x] Project 1 - Socket Programming
+- [x] Project 2 - Multi-thread Web Server
+- [x] Project 3 - SMTP Send Mail Client
 - [ ] Project 4 - POP3 Mail Client
 - [ ] Project 5 - FTP Client
-- [ ] Project 6 - Network Download
+- [x] Project 6 - Network Download
 - [ ] Project 7 - Web Proxy
 
 ### Java

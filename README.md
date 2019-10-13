@@ -12,7 +12,7 @@
 | Project 4 | 张启洋 | 张启洋 | 张启洋 |
 | Project 5 | 贺隽文 |       |        |
 | Project 6 | 贺隽文 | 张启洋 | 张启洋 |
-| Project 7 |       |        |        |
+| Project 7 | 张启洋 |        |        |
 
 
 
@@ -26,7 +26,7 @@
 - [x] Project 4 - POP3 Mail Client
 - [x] Project 5 - FTP Client
 - [x] Project 6 - Network Download
-- [ ] Project 7 - Web Proxy
+- [x] Project 7 - Web Proxy
 
 ### Java
 

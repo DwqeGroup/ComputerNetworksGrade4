@@ -6,8 +6,8 @@
 
 |           | C/C++ | Java   | Python |
 | --------- | ----- | ------ | ------ |
-| Project 1 | 贺隽文 | 钱泽   |        |
-| Project 2 | 贺隽文 | 钱泽   |        |
+| Project 1 | 贺隽文 | 钱泽   | 孙颢源 |
+| Project 2 | 贺隽文 | 钱泽   | 孙颢源 |
 | Project 3 | 贺隽文 | 钱泽   | 张启洋 |
 | Project 4 | 张启洋 | 张启洋 | 张启洋 |
 | Project 5 | 贺隽文 |       |        |
@@ -23,8 +23,8 @@
 - [x] Project 1 - Socket Programming
 - [x] Project 2 - Multi-thread Web Server
 - [x] Project 3 - SMTP Send Mail Client
-- [ ] Project 4 - POP3 Mail Client
-- [ ] Project 5 - FTP Client
+- [x] Project 4 - POP3 Mail Client
+- [x] Project 5 - FTP Client
 - [x] Project 6 - Network Download
 - [ ] Project 7 - Web Proxy
 

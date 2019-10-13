@@ -26,7 +26,7 @@
 - [x] Project 4 - POP3 Mail Client
 - [x] Project 5 - FTP Client
 - [x] Project 6 - Network Download
-- [ ] Project 7 - Web Proxy
+- [x] Project 7 - Web Proxy
 
 ### Java
 

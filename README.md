@@ -12,7 +12,7 @@
 | Project 4 | 张启洋 | 张启洋 | 张启洋 |
 | Project 5 | 贺隽文 |       |        |
 | Project 6 | 贺隽文 | 张启洋 | 张启洋 |
-| Project 7 |       |        |        |
+| Project 7 | 张启洋 |        |        |
 
 
 

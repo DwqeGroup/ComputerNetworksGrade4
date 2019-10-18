@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+  SMTP.cpp
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(19): warning C4005: “_T”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\tchar.h(2427): note: 参见“_T”的前一个定义
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(28): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(67): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(128): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(165): error C2440: “初始化”: 无法从“const char [16]”转换为“TCHAR *”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(165): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(165): error C2440: “初始化”: 无法从“const char [18]”转换为“TCHAR *”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(165): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(165): error C2440: “初始化”: 无法从“const char [25]”转换为“TCHAR *”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(165): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(165): error C2440: “初始化”: 无法从“const char [24]”转换为“TCHAR *”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(165): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(268): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(200): warning C4473: “fprintf”: 没有为格式字符串传递足够的参数
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(200): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(200): note: 缺失的可变参数 1 为格式字符串“%d”所需
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(332): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(343): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(348): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(358): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(360): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(382): error C2664: “int recv(SOCKET,char *,int,int)”: 无法将参数 2 从“TCHAR *”转换为“char *”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(382): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(392): error C2664: “char *strncpy(char *,const char *,size_t)”: 无法将参数 2 从“TCHAR *”转换为“const char *”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(392): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(389): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“TCHAR *”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(389): note: 请考虑在格式字符串中使用“%ls”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(389): note: 请考虑在格式字符串中使用“%lls”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(389): note: 请考虑在格式字符串中使用“%Ls”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(389): note: 请考虑在格式字符串中使用“%ws”
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(398): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“LPCTSTR”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(398): note: 请考虑在格式字符串中使用“%ls”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(398): note: 请考虑在格式字符串中使用“%lls”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(398): note: 请考虑在格式字符串中使用“%Ls”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(398): note: 请考虑在格式字符串中使用“%ws”
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(419): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(430): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(442): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(485): error C2664: “HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)”: 无法将参数 1 从“char [256]”转换为“LPCWSTR”
+  d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(486): note: 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(495): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(521): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-3 smtp邮件发送程序\smtp\smtp\smtp.cpp(531): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据

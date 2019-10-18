@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Client.cpp
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-1 socket programming\client\client\client.cpp(54): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Client.vcxproj -> D:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-1 Socket Programming\Client\x64\Debug\Client.exe

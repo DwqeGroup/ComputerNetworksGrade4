@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Server.cpp
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-1 socket programming\server\server\server.cpp(97): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-1 socket programming\server\server\server.cpp(133): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Server.vcxproj -> D:\大四上\计网实验\网络技术实践-1120141945-高子恺\1-网络编程\lab1-1 Socket Programming\Server\x64\Debug\Server.exe

@@ -10,7 +10,7 @@
 | Project 2 | 贺隽文 | 钱泽   | 孙颢源 |
 | Project 3 | 贺隽文 | 钱泽   | 张启洋 |
 | Project 4 | 张启洋 | 张启洋 | 张启洋 |
-| Project 5 | 贺隽文 |       |        |
+| Project 5 | 贺隽文 | 谭超   | 谭超       |
 | Project 6 | 贺隽文 | 张启洋 | 张启洋 |
 | Project 7 | 张启洋 | 邹博文 | 邹博文 |
 
@@ -34,7 +34,7 @@
 - [x] Project 2 - Multi-thread Web Server
 - [x] Project 3 - SMTP Send Mail Client
 - [x] Project 4 - POP3 Mail Client
-- [ ] Project 5 - FTP Client
+- [x] Project 5 - FTP Client
 - [x] Project 6 - Network Download
 - [x] Project 7 - Web Proxy
 
@@ -44,6 +44,6 @@
 - [ ] Project 2 - Multi-thread Web Server
 - [x] Project 3 - SMTP Send Mail Client
 - [x] Project 4 - POP3 Mail Client
-- [ ] Project 5 - FTP Client
+- [x] Project 5 - FTP Client
 - [x] Project 6 - Network Download
 - [x] Project 7 - Web Proxy
